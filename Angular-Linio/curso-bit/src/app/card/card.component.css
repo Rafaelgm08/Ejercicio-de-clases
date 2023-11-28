@@ -1,0 +1,16 @@
+.card {
+    width: 250px;
+    display: flex;
+    padding:15px;   
+}
+
+.links {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height:30px;
+}
+
+p {
+    font-size: 10px;
+}

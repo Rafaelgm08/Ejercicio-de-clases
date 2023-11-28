@@ -14,4 +14,7 @@ export class CardComponent {
   @Input() link: String = "Agregar al carrito"
   @Input() description: String = "Descripcion generica"
   @Input() secondprice: String = "Descripcion generica"
+  @Input() style_button: String = "btn btn-secondary"
+  @Input() envio_gratis: String = "btn btn-success"
+  
 }
